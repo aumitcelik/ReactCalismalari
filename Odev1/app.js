@@ -25,7 +25,6 @@ async function getData(user_id) {
     } catch (e) {
         console.log(e)
     }
-
 }
 
 export default getData
